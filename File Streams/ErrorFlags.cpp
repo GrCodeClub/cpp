@@ -1,3 +1,4 @@
+// Επίδειξη των Error Flags στα File Streams	
 #include <iostream>
 #include <fstream>
 
