@@ -1,9 +1,10 @@
 // my_functions.cpp
 #include "my_functions.h"
 #include <iostream>
+using namespace std;
 
 void printHello() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
 }
 
 int add(int a, int b) {
