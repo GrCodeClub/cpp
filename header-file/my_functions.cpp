@@ -1,5 +1,5 @@
 // my_functions.cpp
-#include "my-functions.h"
+#include "my_functions.h"
 #include <iostream>
 
 void printHello() {
